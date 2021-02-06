@@ -1,0 +1,1 @@
+load('pendulumCartModel.mat','sys')
